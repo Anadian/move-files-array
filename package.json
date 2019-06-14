@@ -1,0 +1,31 @@
+{
+  "name": "move-files-array",
+  "version": "0.0.2",
+  "description": "Moves files listed in an array from one filesystem path to another.",
+  "main": "source/main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "./source/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anadian/move-files-array.git"
+  },
+  "keywords": [
+    "move",
+    "files",
+    "array",
+    "system",
+    "libre",
+    "open",
+    "free",
+    "mit"
+  ],
+  "author": "Anadian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anadian/move-files-array/issues"
+  },
+  "homepage": "https://github.com/Anadian/move-files-array#readme"
+}
