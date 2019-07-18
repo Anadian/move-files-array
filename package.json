@@ -3,7 +3,15 @@
   "version": "0.0.2",
   "description": "Moves files listed in an array from one filesystem path to another.",
   "main": "source/main.js",
-  "dependencies": {},
+  "dependencies": {
+    "make-dir": "*",
+    "application-log-winston-interface": ">=1.0.2",
+    "env-paths": "*",
+    "move-file": "*",
+    "command-line-args": "*",
+    "command-line-usage": "*",
+    "get-stream": "*"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "./source/main.js"
